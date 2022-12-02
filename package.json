@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/CH0918/webpack-plugins#readme",
   "devDependencies": {
+    "jszip": "^3.10.1",
     "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.0"
+    "webpack-cli": "^5.0.0",
+    "webpack-sources": "^3.2.3"
   }
 }
